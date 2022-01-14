@@ -4,7 +4,7 @@
 title: LucasKamp | Blog for GitHub
 description: Powered by LucasKamp # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lucaskamp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.lucaskamp.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
